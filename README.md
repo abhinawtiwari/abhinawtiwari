@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinawtiwari from India.
-- 👀 I’m interested in full stack development.
+- 👀 I’m a full stack develoer.
 - 🌱 I love javascript. I have used C, C++, Java previously. I’m currently learning python.
 - 💞️ I am good at DSA and System Design. 
 - ✨ I’m looking for overseas work opportunities.
