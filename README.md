@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @abhinawtiwari from India.
-- 👀 I’m a full stack develoer.
-- 🌱 I love javascript. I have used C, C++, Java previously. I’m currently learning python.
+- 👀 I’m a full stack develper.
+- I'm studying Master's in Computer Science - Data Science at Trinity College, Dublin
+- 🌱 I love javascript and Python is my new found love. I have used C, C++, Java previously.
 - 💞️ I am good at DSA and System Design. 
-- ✨ I’m looking for overseas work opportunities.
+- ✨ I have 6 years of work experience and I can not wait to join the industry again once my studies ends in Sept 2023.
 - 📫 You can reach me on linkedin at https://www.linkedin.com/in/abhinawtiwari/
 
 <!---
