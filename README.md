@@ -2,7 +2,7 @@
 - 👀 I'm studying Master's in Computer Science - Data Science at Trinity College, Dublin.
 - 🌱 I’m a full stack develper. I love javascript and Python is my new found love. I have used C, C++, Java previously.
 - 💞️ I am good at DSA and System Design. 
-- ✨ I have 6 years of work experience and I can not wait to join the industry again once my studies ends in Sept 2023.
+- ✨ I have 6 years of work experience and I can not wait to join the industry again once my studies complete in Sept 2023.
 - 📫 You can reach me on linkedin at https://www.linkedin.com/in/abhinawtiwari/
 
 <!---
