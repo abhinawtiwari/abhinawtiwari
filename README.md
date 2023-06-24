@@ -4,7 +4,7 @@
 - 💞️ I am good at DSA and System Design. 
 - ✨ I have 6 years of work experience and I can not wait to join the industry again once my studies complete in Sept 2023.
 - 🤓 I teach Computer Science in my spare time.
-- 💻 I am available for internships / part time roles right now.
+- 💻 I am looking for full-time roles.
 - 📫 You can reach me on linkedin at https://www.linkedin.com/in/abhinawtiwari/
 
 <!---
