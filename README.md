@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinawtiwari from India.
 - 👀 I'm studying Master's in Computer Science - Data Science at Trinity College, Dublin.
-- 🌱 I’m a Machine Learning Full stack developer. I love javascript and Python is my new found love. I have used C, C++, Java previously.
+- 🌱 I’m a Full stack developer with AI focus. I am comfortable with many languages including C, C++, Java, JavaScript and Python.
 - 💞️ I am good at DSA and System Design. 
 - ✨ I have 6 years of work experience and I can not wait to join the industry again once my studies complete in Sept 2023.
 - 🤓 I teach Computer Science in my spare time.
